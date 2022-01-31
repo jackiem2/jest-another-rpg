@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "package js",
+  "main": "package.json",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackiem2/jest-another-rpg.git"
+  },
+  "author": "jackie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackiem2/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/jackiem2/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
